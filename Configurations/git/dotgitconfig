@@ -1,0 +1,9 @@
+[user]
+    email = thebabyboom@gmail.com
+    name = David C
+
+[alias]
+    ci = commit
+    co = checkout
+    st = status
+    br = branch
